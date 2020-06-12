@@ -103,7 +103,42 @@ img {
 }
   
 @media(max-width:700px) {
+    .container {
+        padding: 0 1rem;
+    }
+    
+    .main-header {
+        padding: 1rem;
+    }
+    
+    .main-header h1 {
+        font-size: 3.4rem;
+        line-height: 3.4rem;
+    }
+        
+    .main-header p {
+        font-size: 1.6rem;
+    }
+        
     .card {
         display: block;
+    }
+
+    .card > div {
+        padding: 1rem;
+    }  
+
+    .card img {
+        height: 45vh;
+    }
+    
+    .card p {
+        text-align: justify;    
+    }    
+}
+
+@media(max-width:321px) {
+    .main-header {
+        margin: 1rem;
     }
 }
