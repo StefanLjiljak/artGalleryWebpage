@@ -1,4 +1,4 @@
-# Art Gallery Webpage, Animating On Scroll  _AOS Library, Google Photos API images fetching
+# Art Gallery Webpage, Animating On Scroll  _AOS Library, Google Photos API images fetching, Mobile First Full Responsive
 
 - https://stefanljiljak.github.io/artGalleryWebpage/
 
